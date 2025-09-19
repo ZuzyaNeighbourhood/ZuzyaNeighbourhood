@@ -2,13 +2,13 @@
 
 <div align="center">
   
-[![d4rsen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d4rsen&hide_border=true&theme=redical)](https://github.com/d4rsen)
+[![Sergey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sergey&hide_border=true&theme=redical)](https://github.com/Sergey)
 
 <hr>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Darsen;I+am+a+Frontend+JavaScript%2FTypeScript+developer)](https://github.com/d4rsen)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Darsen;I+am+a+Frontend+JavaScript%2FTypeScript+developer)](https://github.com/Sergey)
 
 </div>
 
@@ -16,14 +16,14 @@
 
 <div align="center">
 
-[![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=fa428e)](https://github.com/d4rsen)
+[![Music](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=fa428e)](https://github.com/Sergey)
 
 </div>
 
 <hr>
 
 <p align="center">
-  <a target="_blank" href="https://d4rsen.vercel.app"><img
+  <a target="_blank" href="https://Sergey.vercel.app"><img
     src="https://img.shields.io/badge/check%20out%20my%20website-20232A?style=for-the-badge&logo=vercel" width="350px"/></a>
 </p>
 
@@ -80,10 +80,10 @@
 
 <div align="center">
 
-[![MacOS](https://img.shields.io/badge/MacOS-20232A?style=for-the-badge&logo=apple)](https://github.com/d4rsen)
-[![Webstorm](https://img.shields.io/badge/webstorm-20232A?style=for-the-badge&logo=webstorm)](https://github.com/d4rsen)
-[![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)](https://github.com/d4rsen)
-[![Iterm2](https://img.shields.io/badge/iterm2-20232A?style=for-the-badge&logo=iterm2)](https://github.com/d4rsen)
+[![MacOS](https://img.shields.io/badge/MacOS-20232A?style=for-the-badge&logo=apple)](https://github.com/Sergey)
+[![Webstorm](https://img.shields.io/badge/webstorm-20232A?style=for-the-badge&logo=webstorm)](https://github.com/Sergey)
+[![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)](https://github.com/Sergey)
+[![Iterm2](https://img.shields.io/badge/iterm2-20232A?style=for-the-badge&logo=iterm2)](https://github.com/Sergey)
 
 </div>
 
@@ -91,19 +91,19 @@
 
 <div align="center">
 
-[![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=d4rsen&theme=radical&langs_count=20&layout=compact)](https://github.com/d4rsen)
+[![Sergey's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Sergey&theme=radical&langs_count=20&layout=compact)](https://github.com/Sergey)
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=d4rsen&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/d4rsen)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sergey&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/Sergey)
 
 <hr>
 
-[![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)](https://github.com/d4rsen)
+[![Sergey's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sergey&theme=radical)](https://github.com/Sergey)
 
 <hr>
 
-[![d4rsen's github stats](https://github-readme-stats.vercel.app/api/?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/d4rsen)
+[![Sergey's github stats](https://github-readme-stats.vercel.app/api/?username=Sergey&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Sergey)
 
 <hr>
 
