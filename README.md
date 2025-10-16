@@ -41,7 +41,7 @@
 [![PostCss](https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A)](https://postcss.org/)
 [![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)](https://www.figma.com/)
 [![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)([https://nodejs.org/](https://redux-toolkit.js.org/))
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)([https://nodejs.org/](https://redux-toolkit.js.org/)
 [![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![GraphQL](https://img.shields.io/badge/graphql-20232A?style=for-the-badge&logo=GraphQL&logoColor=e535ab)](https://graphql.org/)
 [![NestJs](https://img.shields.io/badge/nest-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234D)](https://nestjs.com/)
