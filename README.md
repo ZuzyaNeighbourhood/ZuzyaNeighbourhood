@@ -82,24 +82,6 @@
 
 <hr>
 
-<div align="center">
-
-[![ZuzyaNeighbourhood's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ZuzyaNeighbourhood&theme=radical&langs_count=20&layout=compact)](https://github.com/ZuzyaNeighbourhood)
-
-<hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZuzyaNeighbourhood&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ZuzyaNeighbourhood)
-
-<hr>
-
-[![ZuzyaNeighbourhood's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuzyaNeighbourhood&theme=radical)](https://github.com/ZuzyaNeighbourhood)
-
-<hr>
-
-[![ZuzyaNeighbourhood's github stats](https://github-readme-stats.vercel.app/api/?username=ZuzyaNeighbourhood&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/ZuzyaNeighbourhood)
-
-<hr>
-
 &nbsp;
 &nbsp;
 &nbsp;
